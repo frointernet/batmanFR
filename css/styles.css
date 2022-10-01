@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap')
+
+.batman{
+    background-color:#E6E6E6;
+    width: 1440px;
+    height: 188px;
+    align-content: center;
+}
+h1 {
+    color:  #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+    padding: 5px;
+}
+h2{
+    color:  #005677;
+    background-color: #C4C4C4;
+    padding: 5px;
+
+}
+
+footer{
+    background: #005677;
+    padding: 5px;
+
+}
+.solofooter{
+    color: white;
+}
+i{color: white;}
